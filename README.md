@@ -3,7 +3,7 @@ An accelerated learning game based on Arlo Belshee's "refactoring is naming" mod
 
 # The Rules
 
-Sit a group of people down (or a single person) in a coding dojo format (timed rotation with one person at the keyboard), with an IDE open to a chunk of code under test. You have 3 minutes to transition as many blocks of code from a single chosen stage to next. Run tests frequently to make sure you haven't broken anything. When the timer goes off, revert the code and start over for the next person.
+Sit a group of people down (or a single person) in a coding dojo format (timed rotation with one person at the keyboard), with an IDE open to a chunk of code under test. The person at the keyboard has 3 minutes to transition as many blocks of code from a single chosen stage to next. They can of course ask for help from the rest of the dojo, but this is essentially their turn to build fluency with their own eyes, brain, and hands. Run tests frequently to make sure you haven't broken anything. When the timer goes off, revert the code and start over for the next person.
 
 Your first time playing the 7 Stages of Naming Game, one stage (such as Missing to Nonsense) will likely fill up the entire hour or so of your coding dojo. Get really good at one stage before moving on to playing with the next - aim for fluency!
 
