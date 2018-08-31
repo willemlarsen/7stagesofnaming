@@ -1,5 +1,5 @@
 # 7stagesofnaming
-An accelerated learning game based on Arlo Belshee's "refactoring is naming" model. This is a "fluency first" game, focused on producing ability-to-do-under-pressure, not necessarily high-level understanding or puzzling ability. You are doing the game right if you are doing simple, easy, obvious things, over and over and over. See Llewellyn Falco's "Sparrow Decks" for another example of this.
+An accelerated learning game based on Arlo Belshee's "refactoring is naming" model. This is a "fluency first" game, focused on producing ability-to-do-under-pressure, not necessarily high-level understanding or puzzling ability. You are doing the game right if you are doing simple, easy, obvious things, over and over and over. See Llewellyn Falco's "Sparrow Decks" for another example of this (http://llewellynfalco.blogspot.com/p/sparrow-decks.html).
 
 # The Rules
 
