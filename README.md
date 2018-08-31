@@ -33,7 +33,7 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 # Honest and Complete to Does the Right Thing
 
-1. Now take as many long names as possible and look for opportunities to extract and encapuslate responsiblities that don't fit. Of all the Honest things in the name, does one of them stand out as being (cue Sesame Street song) "One of these things is not like the others, one of these things just isn't the same". Extract it out and encapsulate it.
+1. Now take as many long names as possible and look for opportunities to extract and encapuslate responsiblities that don't fit. Of all the Honest things in the name, does one of them stand out as being (cue Sesame Street song) "One of these things is not like the others, one of these things just isn't the same". Extract it out and have it called separately, or encapsulate it.
 
 2. Follow the same instructions as before in past steps.
 
