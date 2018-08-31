@@ -27,7 +27,7 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 # Honest to Honest and Complete
 
-1. Looking at all the Honest names, now scan them for an additional Honest thing that they do. Previously, you just picked one of the Honest things that they do, and this likely left a lot of the functionality out. Now add one more Honest thing. If before you named a block of code "convertCurrency" (noting that it also did some formatting for presentation in the UI), add one more thing by renaming it "convertCurrencyAndFormatForUI", for example. NamesCanGetLongerAndLongerAndLongerAndThatIsOK! It's actually very important that long names stand out, just like the Nonsense names needed to scan as true nonsense. It reminds us that there is still more work to do, which will come in the next stage.
+1. Looking at all the Honest names, now scan them for an additional Honest thing that they do. Previously, you just picked one of the Honest things that they do, and this likely left a lot of the functionality out. Now add one more Honest thing. If before you named a block of code "convertCurrency" (noting that it also did some formatting for presentation in the UI), add one more thing by renaming it "convertCurrencyAndFormatJsonForUI", for example. NamesCanGetLongerAndLongerAndLongerAndThatIsOK! It's actually very important that long names stand out, just like the Nonsense names needed to scan as true nonsense. It reminds us that there is still more work to do, which will come in the next stage.
 
 2. Follow the same instructions as before in past steps.
 
