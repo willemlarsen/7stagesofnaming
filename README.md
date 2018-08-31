@@ -9,11 +9,11 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 # Missing to Nonsense
 
-1. Look for blocks of code, unnammed primitives (strings, numbers, etc), that seem to "hang together", and that can be extracted out and given a nonsense name (foo, banana, outgrabeMomerath, etc) that stands out as nonsense. 
+1. Look for blocks of code, unnamed primitives (strings, numbers, etc), that seem to "hang together", and that can be extracted out and given a nonsense name (foo, banana, outgrabeMomerath, etc) that stands out as nonsense. 
 
 2. Only transition the obvious. If you spend more than 10 seconds thinking about it, move on to something else more obvious. The goal is fluency, not puzzling out your options. Do a simple easy thing over and over and over until the timer dings.
 
-3. Run tests to make sure you haven't broken anything. When the timer goes off, revert the code and start over for the next person. Once you've got the hang of Missing to Nonsense, after a full round or three or five, don't revert the last bit of code. You'll build on it for the next stage.
+3. Run tests after every refactoring/renaming to make sure you haven't broken anything. When the timer goes off, revert the code and start over for the next person. Once you've got the hang of Missing to Nonsense, after a full round or three or five, don't revert the last bit of code. You'll build on it for the next stage.
 
 # Nonsense to Honest
 
