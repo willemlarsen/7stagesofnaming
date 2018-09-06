@@ -7,8 +7,6 @@ Sit a group of people down (or a single person) in a coding dojo format (timed r
 
 Your first time playing the 7 Stages of Naming Game, one stage (such as Missing to Nonsense) will likely fill up the entire hour or so of your coding dojo. Get really good at one stage before moving on to playing with the next - aim for fluency!
 
-Feel free to also use previous stages that you've become fluent at in a more advanced session. For example, if you're currently focused on Honest to Honest and Complete, and you see some Missing names that stand out, go ahead and transition them to Nonsense, and then move on to your next Honest and Complete transition.
-
 # Missing to Nonsense
 
 1. Look for blocks of code, unnamed primitives (strings, numbers, etc), that seem to "hang together", and that can be extracted out and given a nonsense name (foo, banana, outgrabeMomerath, etc) that stands out as nonsense. 
@@ -26,6 +24,9 @@ Feel free to also use previous stages that you've become fluent at in a more adv
 3. Secondarily, there are named blocks of code that were already in the code - scan those to see if you can rename any of them to say one Honest thing about what the code does or is, if they don't already.
 
 4. Run tests to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person. Once you've got the hang of Nonsense to Honest, or when you can't find any more transitions to make. You'll build on it for the next stage.
+
+*Feel free to also use previous stages that you've become fluent at in a more advanced session. For example, if you're currently focused on Nonsense to Honest, and you see some Missing names that stand out, go ahead and transition them to Nonsense, and then move on to your next transition to Honest.*
+
 
 # Honest to Honest and Complete
 
