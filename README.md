@@ -1,9 +1,9 @@
-# 7stagesofnaming
+# 7 Stages of Naming
 An accelerated learning game based on Arlo Belshee's "refactoring is naming" model. This is a "fluency first" game, focused on producing ability-to-do-under-pressure, not necessarily high-level understanding or puzzling ability. You are doing the game right if you are doing simple, easy, obvious things, over and over and over. See Llewellyn Falco's "Sparrow Decks" for another example of this (http://llewellynfalco.blogspot.com/p/sparrow-decks.html).
 
 # The Rules
 
-Sit a group of people down (or a single person) in a coding dojo format (timed rotation with one person at the keyboard), with an IDE open to a chunk of code under test. The person at the keyboard has 3 minutes to transition as many blocks of code from a single chosen stage to next. They can of course ask for help from the rest of the dojo, but this is essentially their turn to build fluency with their own eyes, brain, and hands. Run tests frequently to make sure you haven't broken anything. When the timer goes off, revert the code and start over for the next person.
+Sit a group of people down (or a single person) in a coding dojo format (timed rotation with one person at the keyboard), with an IDE open to a chunk of code under test. The person at the keyboard has 3 minutes to transition as many blocks of code from a single chosen stage to next. They can of course ask for help from the rest of the dojo, but this is essentially their turn to build fluency with their own eyes, brain, and hands. Run tests frequently to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person.
 
 Your first time playing the 7 Stages of Naming Game, one stage (such as Missing to Nonsense) will likely fill up the entire hour or so of your coding dojo. Get really good at one stage before moving on to playing with the next - aim for fluency!
 
@@ -13,7 +13,7 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 2. Only transition the obvious. If you spend more than 10 seconds thinking about it, move on to something else more obvious. The goal is fluency, not puzzling out your options. Do a simple easy thing over and over and over until the timer dings.
 
-3. Run tests after every refactoring/renaming to make sure you haven't broken anything. When the timer goes off, revert the code and start over for the next person. Once you've got the hang of Missing to Nonsense, after a full round or three or five, don't revert the last bit of code. You'll build on it for the next stage.
+3. Run tests after every refactoring/renaming to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person. Once you've got the hang of Missing to Nonsense, or when you can't find any more transitions to make, after a full round or three or five, you can move on to the next stage.
 
 # Nonsense to Honest
 
@@ -23,7 +23,7 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 3. Secondarily, there are named blocks of code that were already in the code - scan those to see if you can rename any of them to say one Honest thing about what the code does or is, if they don't already.
 
-4. Run tests to make sure you haven't broken anything. When the timer goes off, revert the code and start over for the next person. Once you've got the hang of Nonsense to Honest, after a full round or three or five, don't revert the last bit of code. You'll build on it for the next stage.
+4. Run tests to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person. Once you've got the hang of Nonsense to Honest, or when you can't find any more transitions to make. You'll build on it for the next stage.
 
 # Honest to Honest and Complete
 
