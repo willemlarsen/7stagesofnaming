@@ -36,7 +36,7 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 # Honest and Complete to Does the Right Thing
 
-1. Now take as many long names as possible and look for opportunities to extract and encapuslate responsiblities that don't fit. Of all the Honest things in the name, does one of them stand out as being (cue Sesame Street song) "One of these things is not like the others, one of these things just isn't the same". Extract it out and have it called separately, or encapsulate it.
+1. Now take as many long names as possible and look for opportunities to extract and encapuslate responsiblities that don't fit. Of all the Honest things in the name, does one of them stand out as being (cue Sesame Street song) "One of these things is not like the others, one of these things just isn't the same". Remove it from the Honest and Complete name and extract it out and have it called separately, or encapsulate it. Now the Honest and Complete name is shorter! Use these overlong names to signal mixed and overly coupled responsibilities that you can extract from both the name and code.
 
 2. Follow the same instructions as before in past steps.
 
