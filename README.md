@@ -9,7 +9,7 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 # Missing to Nonsense
 
-1. Look for blocks of code, that seem to "hang together". For example, a few statements that start with a comment, and have a blank line after. `Extract Method` on a block and give a name of _obvious nonsense_ (foo, banana, outgrabeMomerath, etc). 
+1. Look for blocks of code, that seem to "hang together". For example, a few statements that start with a comment, and have a blank line after. `Extract Method` on a block and give a name of _obvious nonsense_ (foo, banana, outgrabeMomerath, etc). Also look for unnamed primitives (strings, numbers, etc) that can be extracted as a variable or constant.
 
 2. Only transition the obvious examples. If it takes you more than 10 seconds of thinking, move on to something else more obvious. The goal is fluency, not puzzling out your options. Do a simple easy thing over and over and over until the timer dings.
 
