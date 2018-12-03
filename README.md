@@ -3,7 +3,7 @@ An accelerated learning game based on Arlo Belshee's "refactoring is naming" mod
 
 # The Rules
 
-Sit a group of people down (or a single person) in a coding dojo format (timed rotation with one person at the keyboard), with an IDE open to a chunk of code under test. The person at the keyboard has 3 minutes to transition as many blocks of code from a single chosen stage to next. They can of course ask for help from the rest of the dojo, but this is essentially their turn to build fluency with their own eyes, brain, and hands. Run tests frequently to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person.
+Sit a group of people down (or a single person) in a coding dojo format (timed rotation with one person at the keyboard), with an IDE open to a chunk of code under test. The person at the keyboard is the Driver, their job is to implement the ideas of the group. They have 3 minutes to follow group instructions to transition as many blocks of code from a single chosen stage to next. Run tests frequently to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person.
 
 Your first time playing the 7 Stages of Naming Game, one stage (such as Missing to Nonsense) will likely fill up the entire hour or so of your coding dojo. Get really good at one stage before moving on to playing with the next - aim for fluency!
 
@@ -33,6 +33,8 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 1. Looking at all the Honest names, now scan them for an additional Honest thing that they do. Previously, you just picked one of the Honest things that they do, and this likely left a lot of the functionality out. Now add one more Honest thing. If before you named a block of code "convertCurrency" (noting that it also did some formatting for presentation in the UI), add one more thing by renaming it "convertCurrencyAndFormatJsonForUI", for example. NamesCanGetLongerAndLongerAndLongerAndThatIsOK! It's actually very important that long names stand out, just like the Nonsense names needed to scan as true nonsense. It reminds us that there is still more work to do, which will come in the next stage.
 
 2. Follow the same instructions as before in past steps.
+
+*Feel free to also use previous stages that you've become fluent at in a more advanced naming stage. Go ahead and transition any obvious Missing or Nonsense names to the next higher stage.*
 
 # Honest and Complete to Does the Right Thing
 
