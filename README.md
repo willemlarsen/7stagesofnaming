@@ -15,13 +15,13 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 3. Run tests after every refactoring/renaming to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person. Once you've got the hang of *Missing to Nonsense*, or when you can't find any more transitions to make, after a full round or three or five, you can move on to the next stage.
 
-# Nonsense to Honest
+# Nonsense/Misleading to Honest
 
 1. Looking at all the Nonsense names that you just created, find one that you can easily say one obvious and honest thing that it does. Don't try to sum it up! Just say one honest thing that it does (or is, in the case of a primitive). If a block of code checks for errors and returns data, just pick one of those - either the errors (checkForError) or the data (returnData). Don't try to sum both up in one concept. This will be important later. **Once again: DO NOT SUM UP! Pick one aspect of the code you've given a nonsense name, and put a name to that. That's all. Leave the rest alone even if it could easily be summed up. There lies dragons! It will break this step if you sum up.** Pull the different aspects apart. Be picky! Pick one Honest thing out of all the things it does or is, and give that thing a name.
 
 2. Transition as many Nonsense names as possible, keeping in mind that the goal is not to puzzle anything out (don't take more than 30 seconds to pick a name - that is a looooong time for this exercise). Just do a simple easy thing, over and over and over until the timer dings.
 
-3. Secondarily, there are named blocks of code that were already in the code - scan those to see if you can rename any of them to say one Honest thing about what the code does or is, if they don't already.
+3. Secondarily, there are named blocks of code that were already in the code, and that might actually be **misleading** - scan those to see if you can rename any of them to say one Honest thing about what the code does or is, if they don't already.
 
 4. Run tests to make sure you haven't broken anything. When the timer goes off, keep the code changes and build on them for the next person. Once you've got the hang of Nonsense to Honest, or when you can't find any more transitions to make. You'll build on it for the next stage.
 
