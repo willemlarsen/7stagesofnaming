@@ -46,9 +46,10 @@ Your first time playing the 7 Stages of Naming Game, one stage (such as Missing 
 
 Watch this space! Once you feel you've mastered a stage, check out Arlo Belshee's blogposts breaking down each stage and revealing things you may not have though of.
 
-* Missing to Nonsense: http://arlobelshee.com/naming-is-a-process-part-2-missing-to-nonsense/
-* Nonsense to Honest: http://arlobelshee.com/naming-is-a-process-part-3-nonsense-to-honest/
-* Honest to Honest-and-Complete: http://arlobelshee.com/naming-is-a-process-part-4-honest-to-honest-and-complete/
-* Honest-and-Complete to Does the Right Thing: http://arlobelshee.com/naming-is-a-process-part-5-honest-and-complete-to-does-the-right-thing/
-
+* Missing to Nonsense: https://www.digdeeproots.com/articles/get-to-obvious-nonsense/
+* Nonsense to Honest: https://www.digdeeproots.com/articles/get-to-honest/
+* Honest to Honest-and-Complete: https://www.digdeeproots.com/articles/get-to-completely-honest/
+* Honest-and-Complete to Does the Right Thing: https://www.digdeeproots.com/articles/get-to-does-the-right-thing/
+* Does the Right Thing to Reveals Intent: https://www.digdeeproots.com/articles/get-to-intent-revealing/
+* Reveals Intent to Domain Abstraction: https://www.digdeeproots.com/articles/get-to-domain-abstraction/
 
