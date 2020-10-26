@@ -1,5 +1,5 @@
 # 7 Stages of Naming
-An accelerated learning game based on Arlo Belshee's "Code by Refactoring" model. This is a "fluency first" game, focused on producing ability-to-do-under-pressure, not necessarily high-level understanding or puzzling ability. You are doing the game right if you are doing simple, easy, obvious things, over and over and over (of course, finding easy, obvious things to do isn't as easy as it sounds...) See Llewellyn Falco's "Sparrow Decks" for another example of this (http://llewellynfalco.blogspot.com/p/sparrow-decks.html).
+An accelerated learning game based on Arlo Belshee's "Code by Refactoring" model. This is a "fluency first" game, focused on producing ability-to-do-under-pressure, not necessarily high-level understanding or puzzling ability. You are doing the game right if you are doing simple, easy, obvious things, over and over and over (of course, finding easy, obvious things to do isn't as easy as it sounds...) See Llewellyn Falco's "Sparrow Decks" for another example of "fluency-first" learning (http://llewellynfalco.blogspot.com/p/sparrow-decks.html).
 
 # The Rules
 
